@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7L3Ue78AAAAJ&hl=en&oi=ao"
-  arXiv            : "https://arxiv.org/search/?query=gopakumar+mohandas&searchtype=all&source=header"
-  email            :
+#   arXiv            : "https://arxiv.org/search/?query=gopakumar+mohandas&searchtype=all&source=header"
+  email            : "gopakumarmohandas@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/gopakumarmohandas/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
