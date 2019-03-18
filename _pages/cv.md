@@ -11,49 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Electronics & Instrumentation, Calicut University, 2006
+* M.Sc. in Physics, Chennai Mathematical Institute, 2013
+* Ph.D in Physics, University of Copenhagen, 2018
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 onwards: Quantitative Analyst @ PowerMart ApS
+* 2016-2018: Research Assistant @ Niels Bohr International Academy
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python : numpy, scipy, sympy, matplotlib, pandas, statsmodels, datetime
+  * R, C, Matlab, Mathematica
+* Machine Learning
+  * Python : scikit-learn, tensorflow, keras
+* Git
+* MS Excel
+* LaTeX
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Graduate Fellowship, Kavli Institute for Theoretical Physics, 2018
+* Visiting Research Fellowship, Inter-University Center for Astronomy & Astrophysics, 2013
+* Junior Research Fellowship, Chennai Mathematical Institute, 2011
   
-Talks
+Select Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Astro Seminar, University of California Santa Barbara, US, 2018 
+* Plasma Turbulence Workshop, Ecole de Physique Les Houches, France, 2015 
+* CPH-Lund Disk Meeting, Lund University, Sweden, 2015 
+* Protoplanetary Disks & Planet Formation Workshop, JAMSTEC, Japan, 2015 
+* Annual Danish Astronomy Meeting, Helsingør, Denmark, 2015
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Teaching assistant in
+  * Continuum Mechanics, University of Copenhagen, Winter 2015
+  * Theoretical Astrophysics, University of Copenhagen, Fall 2014
+  * Electromagnetism, University of Copenhagen, Spring 2014
+* Mentored 2 B.Sc. and 1 M.Sc. student at the Niels Bohr Institute
+
+Outreach
 ======
-* Currently signed in to 43 different slack teams
+* Contributor, KITP social media campaign, 2018.
+* Volunteer, Danish Science Festival, 2016, 2017.
+* Founder, Copenhagen Debaters Meetup Group, 2016-2017
+  
