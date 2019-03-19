@@ -82,7 +82,7 @@ analytics:
 author:
 #   name             : "Gopakumar Mohandas"
   avatar           : "profile.png"
-  bio              : "Quantitative Analyst \n\n\n\n\n  Data Scientist"
+  bio              : | "Quantitative Analyst \n Data Scientist"
   location         : "Aarhus, Denmark"
   employer         :
   pubmed           : 
