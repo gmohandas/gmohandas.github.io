@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gopakumar Mohandas"
+#   name             : "Gopakumar Mohandas"
   avatar           : "profile.png"
-  bio              : "Quantitative Analyst.       Data Scientist"
+  bio              : "Quantitative Analyst \n\n\n\n\n  Data Scientist"
   location         : "Aarhus, Denmark"
   employer         :
   pubmed           : 
