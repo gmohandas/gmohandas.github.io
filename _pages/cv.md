@@ -17,8 +17,8 @@ Education
 
 Experience
 ======
-* 2018 onwards: Quantitative Analyst @ PowerMart ApS
-* 2016-2018: Research Assistant @ Niels Bohr International Academy
+* 2018 onwards: Quantitative Analyst, PowerMart ApS, Aarhus
+* 2016-2018: Research Assistant, Niels Bohr International Academy, Copenhagen
   
 Skills
 ======
