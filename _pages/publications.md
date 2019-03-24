@@ -14,7 +14,7 @@ author_profile: true
    subject to various so-called non-ideal effects in weakly ionized and weakly magnetized plasmas. Our findings indicate 
    the degree to which the material disk properties and the magnetic field are efficiently transported through the disk.
    
-   Recommended citation: Mohandas, G. & Pessah, M. E. (2017), <i>ApJ</i>, **838**, 48.
+   Recommended citation: Mohandas, G. & Pessah, M. E. (2017), <i>ApJ</i>, **838**, 48
   
 2. *Analytical Models of Exoplanetary Atmospheres. V. Non-gray Thermal Structure with Coherent Scattering*
    [Journal](https://iopscience.iop.org/article/10.3847/1538-4357/aab35d/pdf)
@@ -24,7 +24,7 @@ author_profile: true
    In the era of extra-solar planet discovery, this model would prove beneficial in understanding the atmospheric properties
    of these distant worlds.
    
-   Recommended citation: Mohandas, G., Pessah, M. E., & Heng, K. (2018), <i>ApJ</i>, **858**, 1.
+   Recommended citation: Mohandas, G., Pessah, M. E., & Heng, K. (2018), <i>ApJ</i>, **858**, 1
    
 3. *Dust Segregation in Hall-dominated Turbulent Protoplanetary Disks*
    [Journal](https://iopscience.iop.org/article/10.3847/1538-4357/aadcf0/pdf)
