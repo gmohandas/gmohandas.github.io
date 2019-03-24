@@ -3,7 +3,7 @@ title: "Spectral Analysis of Non-ideal MRI Modes: The Effect of Hall Diffusion"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2017-03
+date: 2017-03-20
 venue: 'The Astrophysical Journal'
 paperurl: 'http://adsabs.harvard.edu/abs/2017ApJ...838...48M'
 citation: 'Mohandas, G. & Pessah, M. E., (2017). <i>ApJ</i>. 838, 48'
