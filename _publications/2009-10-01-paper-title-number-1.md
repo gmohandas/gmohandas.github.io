@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Spectral Analysis of Non-ideal MRI Modes: The Effect of Hall Diffusion"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2017-03
+venue: 'The Astrophysical Journal'
+paperurl: 'http://adsabs.harvard.edu/abs/2017ApJ...838...48M'
+citation: 'Mohandas, G. & Pessah, M. E., (2017). <i>ApJ</i>. 838, 48'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper conducts an exhaustive study of the local stability of accretion disks, specifically protoplanetary disks subject to various so-called non-ideal effects in weakly ionized and weakly magnetized plasmas. Our findings indicate the degree to which the material disk properties and the magnetic field are efficiently transported through the disk.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Journal](https://iopscience.iop.org/article/10.3847/1538-4357/aa6118/pdf)
+[arXiv](https://arxiv.org/abs/1702.04979)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Mohandas, G. & Pessah, M. E. (2017). <i>ApJ</i>. **838**, 48.
