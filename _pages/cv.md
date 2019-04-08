@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Machine/Deep Learning
+Machine|Deep Learning
 =====================
 * Time-series forecasting
   * Developed SARIMA models using python statsmodels library
   * Developed DNN and LSTM networks using keras and tensorflow libraries
-  * Ensemble methods and Random Forests using scikit-learn library
+  * Applied Ensemble methods and Random Forests using scikit-learn library
   
 Skills
 ======
