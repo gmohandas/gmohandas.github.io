@@ -9,27 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.Tech. in Electronics & Instrumentation, Calicut University, 2006
-* M.Sc. in Physics, Chennai Mathematical Institute, 2013
-* Ph.D in Physics, University of Copenhagen, 2018
-
-Experience
-======
-* 2018 onwards: Quantitative Analyst, PowerMart ApS, Aarhus
-* 2016-2018: Research Assistant, Niels Bohr International Academy, Copenhagen
+Machine/Deep Learning
+=====================
+* Time-series forecasting
+  * Developed SARIMA models using python statsmodels library
+  * Developed DNN and LSTM networks using keras and tensorflow libraries
+  * Ensemble methods and Random Forests using scikit-learn library
   
 Skills
 ======
-* Programming
-  * Python : numpy, scipy, sympy, matplotlib, pandas, statsmodels, datetime
+* Programming Languages
+  * Python
   * R, C, Matlab, Mathematica
-* Machine Learning
-  * Python : scikit-learn, tensorflow, keras
+* Other Languages
+  * LaTeX, Markdown 
 * Git
-* MS Excel
-* LaTeX
+* Office suite
+  * MS Excel, Keynote
 
 Awards
 ======
@@ -58,4 +54,3 @@ Outreach
 * Contributor, KITP social media campaign, 2018.
 * Volunteer, Danish Science Festival, 2016, 2017.
 * Founder, Copenhagen Debaters Meetup Group, 2016-2017
-  
