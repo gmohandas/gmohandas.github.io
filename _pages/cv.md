@@ -13,7 +13,7 @@ Analytical Skills
 =========
 * Time-series forecasting
   * Developed SARIMA models using python statsmodels library
-  * Developed DNN and LSTM networks using keras and tensorflow libraries
+  * Developed feed-forward DNN and recurrent LSTM networks using keras and tensorflow libraries
   * Applied Ensemble methods and Random Forests using scikit-learn library
 * Data Wrangling
   * Built python library to retrieve, organize and analyze market data
