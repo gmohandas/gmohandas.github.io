@@ -13,7 +13,9 @@ My PhD research dealt with a few select problems in the field of theoretical ast
 - the stability of charged particle motion in planetary magnetospheres
 - the effect of magnetic diffusion on the stability of gaseous disks around young stars
 - the atmospheric thermal structure of (exo)planets
+
 which led to the following results, respectively,
+
 - discovered the (quirky and counterintuitive) possibility of instability due to dissipation
 - discovered the theoretical possibility of predominantly hydrodynamic turbulence in a magnetized gas disk
 - derived the most general thermal planar atmospheric structure using the radiative transfer theory
