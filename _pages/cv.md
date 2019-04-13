@@ -9,14 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Machine|Deep Learning
-=====================
+Analytical Skills
+=========
 * Time-series forecasting
   * Developed SARIMA models using python statsmodels library
   * Developed DNN and LSTM networks using keras and tensorflow libraries
   * Applied Ensemble methods and Random Forests using scikit-learn library
+* Data Wrangling
+  * Built python library to retrieve, organize and analyze market data
+* Algorithms
+  * Developed automated trading algorithms for intraday power trading
   
-Skills
+Computational Skills
 ======
 * Programming Languages
   * Python
@@ -33,7 +37,7 @@ Awards
 * Visiting Research Fellowship, Inter-University Center for Astronomy & Astrophysics, 2013
 * Junior Research Fellowship, Chennai Mathematical Institute, 2011
   
-Select Talks
+Talks
 ======
 * Astro Seminar, University of California Santa Barbara, US, 2018 
 * Plasma Turbulence Workshop, Ecole de Physique Les Houches, France, 2015 
@@ -41,7 +45,7 @@ Select Talks
 * Protoplanetary Disks & Planet Formation Workshop, JAMSTEC, Japan, 2015 
 * Annual Danish Astronomy Meeting, Helsingør, Denmark, 2015
   
-Teaching
+Tutoring
 ======
 * Teaching assistant in
   * Continuum Mechanics, University of Copenhagen, Winter 2015
