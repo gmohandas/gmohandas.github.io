@@ -17,7 +17,7 @@ My PhD research dealt with a few select problems in the field of theoretical ast
 which led to the following results, respectively,
 
 - discovered the (quirky and counterintuitive) possibility of instability due to dissipation
-- discovered the theoretical possibility of predominantly hydrodynamic turbulence in a magnetized gas disk
+- uncovered the theoretical possibility of predominantly hydrodynamic turbulence in a magnetized gas disk
 - derived the most general thermal planar atmospheric structure using the radiative transfer theory
 
 For the details, please have a look at my [PhD thesis](https://gmohandas.github.io/files/gm-phdthesis.pdf)
