@@ -12,24 +12,21 @@ redirect_from:
 Analytical Skills
 =========
 * Time-series forecasting
-  * Developed SARIMA models using python statsmodels library
+  * Applied Ensemble, Decision-Tree and Gradient Boosting methods using scikit-learn library
   * Developed feed-forward DNN and recurrent LSTM networks using keras and tensorflow libraries
-  * Applied Ensemble methods and Random Forests using scikit-learn library
 * Data Wrangling
   * Built python library to retrieve, organize and analyze market data
 * Algorithms
-  * Developed automated trading algorithms for intraday power trading
+  * Developed and deployed automated trading algorithms for intraday power trading
   
 Computational Skills
 ======
 * Programming Languages
   * Python
-  * R, C, Matlab, Mathematica
+  * R, C, C++, Matlab, Mathematica
 * Other Languages
   * LaTeX, Markdown 
 * Git
-* Office suite
-  * MS Excel, Keynote
 
 Awards
 ======
