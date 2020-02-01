@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Analytical Skills
+Data Science Skills
 =========
 * Time-series forecasting
-  * Applied Ensemble, Decision-Tree and Gradient Boosting methods using scikit-learn library
+  * Applied Regression, Ensemble, Decision-Tree and Gradient Boosting methods to predict power market variables
   * Developed feed-forward DNN and recurrent LSTM networks using keras and tensorflow libraries
 * Data Wrangling
-  * Built python library to retrieve, organize and analyze market data
+  * Built python library to extract, wrangle and analyze market data
 * Algorithms
   * Developed and deployed automated trading algorithms for intraday power trading
   
@@ -23,7 +23,7 @@ Computational Skills
 ======
 * Programming Languages
   * Python
-  * R, C, C++, Matlab, Mathematica
+  * C, C++, Matlab, Mathematica
 * Other Languages
   * LaTeX, Markdown 
 * Git
