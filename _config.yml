@@ -83,12 +83,12 @@ author:
 #   name             : "Gopakumar Mohandas"
   avatar           : "propic3.png"
   bio              : "Quant + Data Scientist"
-  location         : "Aarhus, Denmark"
+  location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7L3Ue78AAAAJ&hl=en&oi=ao"
 #   arXiv            : "https://arxiv.org/search/?query=gopakumar+mohandas&searchtype=all&source=header"
-  email            : "gopakumarmohandas@gmail.com"
+#   email            : "gopakumarmohandas@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
