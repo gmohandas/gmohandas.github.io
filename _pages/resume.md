@@ -24,8 +24,7 @@ Computational Skills
 * Programming Languages
   * Python
   * C, C++, Matlab, Mathematica
-* Other Languages
-  * LaTeX, Markdown 
+* SQL
 * Git
 
 Awards
@@ -33,7 +32,7 @@ Awards
 * Graduate Fellowship, Kavli Institute for Theoretical Physics, 2018
 * Visiting Research Fellowship, Inter-University Center for Astronomy & Astrophysics, 2013
 * Junior Research Fellowship, Chennai Mathematical Institute, 2011
-  
+ 
 Talks
 ======
 * Astro Seminar, University of California Santa Barbara, US, 2018 
@@ -41,7 +40,7 @@ Talks
 * CPH-Lund Disk Meeting, Lund University, Sweden, 2015 
 * Protoplanetary Disks & Planet Formation Workshop, JAMSTEC, Japan, 2015 
 * Annual Danish Astronomy Meeting, Helsingør, Denmark, 2015
-  
+ 
 Tutoring
 ======
 * Teaching assistant in
