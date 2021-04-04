@@ -12,20 +12,20 @@ redirect_from:
 Data Science Skills
 =========
 * Machine Learning 
-  * Applied Regression, Ensemble, Decision-Tree and Gradient Boosting methods to predict power market variables
-  * Developed feed-forward DNN and recurrent LSTM networks using tensorflow
+  * Applied Regression, Decision-Tree, Gradient Boosting and stacked ensemble methods to predict power market variables
+  * Developed DNN and recurrent LSTM networks using tensorflow
 * Data Wrangling
-  * Built python library to extract, wrangle and analyze market data
+  * Built innumerable python packages to extract, wrangle and analyze market data
 * Algorithms
-  * Developed and deployed automated trading algorithms for intraday power trading
+  * Developed and deployed automated trading algorithms for day-ahead and intraday power trading
   
 Computational Skills
 ======
 * Programming Languages
   * Python
   * C, C++, Matlab, Mathematica
-* SQL
-* Git
+* Technologies
+  * SQL, Git, Azure DevOps, K8S
 
 Awards
 ======
@@ -33,7 +33,7 @@ Awards
 * Visiting Research Fellowship, Inter-University Center for Astronomy & Astrophysics, 2013
 * Junior Research Fellowship, Chennai Mathematical Institute, 2011
  
-Talks
+Science Talks
 ======
 * Astro Seminar, University of California Santa Barbara, US, 2018 
 * Plasma Turbulence Workshop, Ecole de Physique Les Houches, France, 2015 
@@ -41,7 +41,7 @@ Talks
 * Protoplanetary Disks & Planet Formation Workshop, JAMSTEC, Japan, 2015 
 * Annual Danish Astronomy Meeting, Helsingør, Denmark, 2015
  
-Tutoring
+University Tutoring
 ======
 * Teaching assistant in
   * Continuum Mechanics, University of Copenhagen, Winter 2015
