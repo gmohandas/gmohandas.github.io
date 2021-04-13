@@ -6,6 +6,9 @@ main:
   - title: "PhD Research"
     url: /phdresearch/    
     
+  - title: "Code"
+    url: /code/
+    
   - title: "Resume"
     url: /resume/
     
